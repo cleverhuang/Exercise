@@ -1,0 +1,13 @@
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\bin\Debug\netcoreapp3.1\Feature01.exe
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\bin\Debug\netcoreapp3.1\Feature01.deps.json
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\bin\Debug\netcoreapp3.1\Feature01.runtimeconfig.json
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\bin\Debug\netcoreapp3.1\Feature01.runtimeconfig.dev.json
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\bin\Debug\netcoreapp3.1\Feature01.dll
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\bin\Debug\netcoreapp3.1\Feature01.pdb
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\obj\Debug\netcoreapp3.1\Feature01.AssemblyInfoInputs.cache
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\obj\Debug\netcoreapp3.1\Feature01.AssemblyInfo.cs
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\obj\Debug\netcoreapp3.1\Feature01.csproj.CoreCompileInputs.cache
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\obj\Debug\netcoreapp3.1\Feature01.dll
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\obj\Debug\netcoreapp3.1\Feature01.pdb
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\obj\Debug\netcoreapp3.1\Feature01.genruntimeconfig.cache
+C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature01\obj\Debug\netcoreapp3.1\Feature01.csprojAssemblyReference.cache
