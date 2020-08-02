@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Clever_Huang\\source\\repos\\Exercise\\Feature01\\Feature02\\Feature02.csproj",
+      "projectUniqueName": "D:\\source\\Repos\\cleverhuang\\Exercise\\Feature01\\Feature02\\Feature02.csproj",
       "projectName": "Feature02",
-      "projectPath": "C:\\Users\\Clever_Huang\\source\\repos\\Exercise\\Feature01\\Feature02\\Feature02.csproj",
+      "projectPath": "D:\\source\\Repos\\cleverhuang\\Exercise\\Feature01\\Feature02\\Feature02.csproj",
       "packagesPath": "C:\\Users\\Clever_Huang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Clever_Huang\\source\\repos\\Exercise\\Feature01\\Feature02\\obj\\",
+      "outputPath": "D:\\source\\Repos\\cleverhuang\\Exercise\\Feature01\\Feature02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

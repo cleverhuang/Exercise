@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Uwsw5VsPz+2gzabwgPaUuFllcNIC787ju0IuY0oCYiItA48shFkhs8j0eqTOM35kPm7UTvMeFZEs+8T4jeZGg==",
+  "success": true,
+  "projectFilePath": "D:\\source\\repos\\cleverhuang\\Exercise\\WebAPIClient\\WebAPIClient\\WebAPIClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Clever_Huang\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

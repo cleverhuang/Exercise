@@ -10,3 +10,15 @@ C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature02\obj\Debug\netcor
 C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature02\obj\Debug\netcoreapp3.1\Feature02.dll
 C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature02\obj\Debug\netcoreapp3.1\Feature02.pdb
 C:\Users\Clever_Huang\source\repos\Exercise\Feature01\Feature02\obj\Debug\netcoreapp3.1\Feature02.genruntimeconfig.cache
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\bin\Debug\netcoreapp3.1\Feature02.exe
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\bin\Debug\netcoreapp3.1\Feature02.deps.json
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\bin\Debug\netcoreapp3.1\Feature02.runtimeconfig.json
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\bin\Debug\netcoreapp3.1\Feature02.runtimeconfig.dev.json
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\bin\Debug\netcoreapp3.1\Feature02.dll
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\bin\Debug\netcoreapp3.1\Feature02.pdb
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\obj\Debug\netcoreapp3.1\Feature02.AssemblyInfoInputs.cache
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\obj\Debug\netcoreapp3.1\Feature02.AssemblyInfo.cs
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\obj\Debug\netcoreapp3.1\Feature02.csproj.CoreCompileInputs.cache
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\obj\Debug\netcoreapp3.1\Feature02.dll
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\obj\Debug\netcoreapp3.1\Feature02.pdb
+D:\source\Repos\cleverhuang\Exercise\Feature01\Feature02\obj\Debug\netcoreapp3.1\Feature02.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+C:\Users\DELL\source\repos\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.exe
+C:\Users\DELL\source\repos\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.deps.json
+C:\Users\DELL\source\repos\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.runtimeconfig.json
+C:\Users\DELL\source\repos\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.dll
+C:\Users\DELL\source\repos\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.pdb
+C:\Users\DELL\source\repos\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.dll
+C:\Users\DELL\source\repos\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.pdb
+C:\Users\DELL\source\repos\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.csprojAssemblyReference.cache
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.exe
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.deps.json
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.runtimeconfig.json
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.runtimeconfig.dev.json
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.dll
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\bin\Debug\netcoreapp3.1\Indices and ranges.pdb
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.AssemblyInfoInputs.cache
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.AssemblyInfo.cs
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.csproj.CoreCompileInputs.cache
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.dll
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.pdb
+D:\source\repos\cleverhuang\Exercise\Indices and ranges\Indices and ranges\obj\Debug\netcoreapp3.1\Indices and ranges.genruntimeconfig.cache

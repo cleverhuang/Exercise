@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Clever_Huang\\source\\repos\\Exercise\\Feature01\\Feature01\\Feature01.csproj": {}
+    "D:\\source\\repos\\cleverhuang\\Exercise\\Feature01\\Feature01\\Feature01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Clever_Huang\\source\\repos\\Exercise\\Feature01\\Feature01\\Feature01.csproj": {
+    "D:\\source\\repos\\cleverhuang\\Exercise\\Feature01\\Feature01\\Feature01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Clever_Huang\\source\\repos\\Exercise\\Feature01\\Feature01\\Feature01.csproj",
+        "projectUniqueName": "D:\\source\\repos\\cleverhuang\\Exercise\\Feature01\\Feature01\\Feature01.csproj",
         "projectName": "Feature01",
-        "projectPath": "C:\\Users\\Clever_Huang\\source\\repos\\Exercise\\Feature01\\Feature01\\Feature01.csproj",
+        "projectPath": "D:\\source\\repos\\cleverhuang\\Exercise\\Feature01\\Feature01\\Feature01.csproj",
         "packagesPath": "C:\\Users\\Clever_Huang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Clever_Huang\\source\\repos\\Exercise\\Feature01\\Feature01\\obj\\",
+        "outputPath": "D:\\source\\repos\\cleverhuang\\Exercise\\Feature01\\Feature01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

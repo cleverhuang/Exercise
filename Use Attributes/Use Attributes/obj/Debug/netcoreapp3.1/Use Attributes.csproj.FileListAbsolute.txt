@@ -1,0 +1,26 @@
+C:\Users\DELL\source\repos\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.exe
+C:\Users\DELL\source\repos\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.deps.json
+C:\Users\DELL\source\repos\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.runtimeconfig.json
+C:\Users\DELL\source\repos\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.dll
+C:\Users\DELL\source\repos\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.pdb
+C:\Users\DELL\source\repos\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.dll
+C:\Users\DELL\source\repos\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.pdb
+C:\Users\DELL\source\repos\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.genruntimeconfig.cache
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.exe
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.deps.json
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.runtimeconfig.json
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.runtimeconfig.dev.json
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.dll
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\bin\Debug\netcoreapp3.1\Use Attributes.pdb
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.csprojAssemblyReference.cache
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.AssemblyInfoInputs.cache
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.AssemblyInfo.cs
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.csproj.CoreCompileInputs.cache
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.dll
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.pdb
+D:\source\repos\cleverhuang\Exercise\Use Attributes\Use Attributes\obj\Debug\netcoreapp3.1\Use Attributes.genruntimeconfig.cache
